@@ -8,10 +8,7 @@
 #include <iostream>
 
 int main() {
-    // insert code here...
-    std::cout << "Hello, Won";
     while (true){
-        
         
     }
     return 0;
